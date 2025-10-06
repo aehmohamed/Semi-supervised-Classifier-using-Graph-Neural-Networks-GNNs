@@ -2,6 +2,7 @@ Simulation for using GNNs to classify the semi-labeled Karate Club dataset. Requ
 
 References: 
 https://distill.pub/2021/gnn-intro/
+
 @misc{kipf2017semisupervisedclassificationgraphconvolutional,
       title={Semi-Supervised Classification with Graph Convolutional Networks}, 
       author={Thomas N. Kipf and Max Welling},
